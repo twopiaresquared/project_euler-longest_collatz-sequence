@@ -23,7 +23,6 @@ class GFG
         System.out.print(n); 
     } 
       
-    // Driver code 
     public static void main (String[] args)  
     { 
         printCollatz(6); 
